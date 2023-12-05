@@ -1,5 +1,7 @@
+<a name="readme-top"></a>
+
 [![Contributors][contributors-shield]][contributors-url]
-[![Youtube][youtube-shield]][https://www.youtube.com/watch?v=m2Lm8RY2uYI]
+[![Youtube][youtube-shield]][youtube-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -41,5 +43,5 @@ To fill this gap, this project proposes to use unmanned aerial vehicles (UAV) to
 [contributors-url]: https://github.com/RoboticsPolyu/WinC_UAV
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/
-[youtube-rul]: https://www.youtube.com/watch?v=m2Lm8RY2uYI
+[youtube-url]: https://www.youtube.com/watch?v=m2Lm8RY2uYI
 [product-screenshot]: images/Overview.png
