@@ -9,7 +9,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/RoboticsPolyu/WinC_UAV">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="420" height="222">
   </a>
 
   <h3 align="center">Window Cleaning for PolyU Jockey Club Innovation Tower with Unmanned Aerial Vehicles (UAV)</h3>
